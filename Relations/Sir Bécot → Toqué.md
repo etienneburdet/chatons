@@ -1,0 +1,15 @@
+---
+nom: "Sir Bécot → Toqué"
+type: "Relation"
+genre: "Narrative"
+de: "[[Personnages/Sir Bécot]]"
+vers: "[[Personnages/Toqué]]"
+source: "https://chatons.wiki.jdr.coffee/characters/sir-becot"
+---
+
+[[Personnages/Sir Bécot]] → [[Personnages/Toqué]]
+Type de relation : **Narrative**
+
+## Contexte
+
+« Il voyage avec son écuyer [[Personnages/Toqué]] et pousse volontiers la chansonnette à [[Lieux/Vermoulu]], où l'on raconte ses exploits le soir. Une rumeur l'a fait venir dans le [[Lieux/Le Marais des Chats-Teignes|marais]]: des enfants s'y perdent, guidés par une musique étrange et entraînante, et il enquête. »

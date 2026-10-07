@@ -1,0 +1,15 @@
+---
+nom: "Fieffrousse → Mamie Omelette"
+type: "Relation"
+genre: "Narrative"
+de: "[[Lieux/Fieffrousse]]"
+vers: "[[Personnages/Mamie Omelette]]"
+source: "https://chatons.wiki.jdr.coffee/locations/au-dela-encore/fieffrousse"
+---
+
+[[Lieux/Fieffrousse]] → [[Personnages/Mamie Omelette]]
+Type de relation : **Narrative**
+
+## Contexte
+
+« Fieffrousse est le donjon qui donne son nom au jeu. On en entend parler dans les tavernes, par [[Personnages/Mamie Omelette]], [[Personnages/Monsieur de la Lune]] ou le [[Personnages/Le Baron Ereib|Baron Rince-Cochon]], et bien des voyageurs s'y rendent lorsqu'une énigme ou un péril les met au défi sans réponse évidente. »
