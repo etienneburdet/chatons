@@ -34,3 +34,25 @@ Les chatons peuvent dormir au chateau. Choix pour le lendemain :
 * Trouver un moyen d'arrêter les chiens de la casse et leurs déchets
 * Aller chercher [[Miléna]] dans [[La Forêt Endormie]]
 * Se mettre à la recherche du parc d'attraction ([[Grand'Roue]])
+
+## Scène 4 (optionelle)
+Les apprentis miages ont rassurés les chatons sur leurs capacité à tenir les plantes dehors et les chatons ont passé la nuit dans l'école. Le matin, ils peuvent décider de tenter de régler le problème des plantes ou de partir directement (les apprentis miages disent qu'ils peuvent tenir jusqu'au retour de [[Miléna]], l'école est forteresse et a des ressources).
+
+Conséquences : si les chatons règlent le problème des plantes, [[Miléna]] peut les accompagner jusqu'à leur prochaine étape après [[La Forêt Endormie]]. Sinon elle doit retourner à [[L'École de Château-haut]].
+
+Terrain : 
+* Sortie de la tour par la porte principale et la porte secrète bloquée par de nouvelle lianes. Les couper (comment ?) ou tenter de sortir par le mur (agilité).
+* La cascade est à une 100aine de mètre du chateau, elle fait environ 20m de haut. On soit escalader, soit trouver un chemin plus long que les plantes et les chiens de la casse peuvent suivre aussi.
+
+Pour régler le problème des plantes, en premier lieu il faut élaborer un plan avec les apprentis miages : 
+* Couper l'eau de la cascade. Il faut monter en haut en échappant aux plantes et trouver un moyen de boucher la cascade.
+* Tenter de charmer les plantes avec la miagie. Il faut fouiller l'école à la recherche des livres et des sorts.
+* Les couper/tailler : fabriquer un taille-haie, un sécateur miagique etc. Fais temporairement un repis pour accèder à l'eau.
+
+Ensuite les chiens de la casse reviennent avec de nouveau déchets : 
+* Retourner les plantes contre eux
+* Fabriquer une machine qui leur remet les déchets dans la tête
+* Trouve un sort qui ferme les bidons de déchets ou les fixe à la charette, les rend très lourd etc.
+* Leur faire très peur (ombres, bruits etc.)
+
+Sinon, [[Miléna]] doit retourner voir ses apprentis.

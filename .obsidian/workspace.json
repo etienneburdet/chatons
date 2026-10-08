@@ -41,52 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scenarios/Vers Haut-chateau.md",
+                "file": "Scenarios/Dans la prison de la casse-auto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vers Haut-chateau"
-            }
-          },
-          {
-            "id": "b30fc308baa7f3d9",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Sans titre 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sans titre 1"
+              "title": "Dans la prison de la casse-auto"
             }
           }
         ],
-        "currentTab": 3
-      },
-      {
-        "id": "1ede016b847eb533",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fb97bbfa7329fc7d",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Sans titre 1.base",
-                "viewName": "Tableau"
-              },
-              "icon": "lucide-table",
-              "title": "Sans titre 1"
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -264,21 +228,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b30fc308baa7f3d9",
+  "active": "bc9ac961d9df93c0",
   "lastOpenFiles": [
-    "Sans titre.base",
+    "Scenarios/Vers Haut-chateau.md",
+    "Campagne Couronne.md",
+    "Trous Campagne Couronne.md",
     "Sans titre 1.canvas",
     "Sans titre 1.base",
-    "Ressources Wiki/hector-le-corbeau.webp",
+    "Sans titre.base",
     "Sans titre.canvas",
-    "Scenarios/Vers Haut-chateau.md",
+    "Ressources Wiki/hector-le-corbeau.webp",
     "Scenarios/Dans la prison de la casse-auto.md",
-    "Campagne Couronne.md",
     "Scenarios/Infiltration d'Arbrachat.md",
     "Scenarios",
     "Lieux/La Rose des Vents.md",
     "Lieux/La centrale.md",
-    "Trous Campagne Couronne.md",
     "Quetes secondaires/Plante carnivores.md",
     "Quetes secondaires/Rallier Sombre Poil de Charbon.md",
     "Quetes secondaires/Opposition - Ptolemnos.md",
